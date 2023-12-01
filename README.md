@@ -1,5 +1,5 @@
 # etch-a-sketch
-Practicing vanilla Javascript with an Etch-a-sketch. Use your keyboard to draw. Makes use of canvas, keyframes and keyboard presses. The goal is to use vanilla Javascript without relying on frameworks.
+The goal is to use vanilla Javascript WITHOUT  relying on frameworks. Use your keyboard to draw on the Etch-a-sketch. Includes use of canvas, keyframes and keyboard presses. 
 
 # Preview
 https://annetters.github.io/etch-a-sketch/
